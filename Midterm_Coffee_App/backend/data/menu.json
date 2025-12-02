@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Espresso",
+    "price": 150,
+    "description": "Strong and bold",
+    "image": "/images/espresso.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Americano",
+    "price": 180,
+    "description": "Espresso with hot water",
+    "image": "/images/americano.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Cappuccino",
+    "price": 250,
+    "description": "Espresso with steamed milk and foam",
+    "image": "/images/cappuccino.jpg"
+  }
+]

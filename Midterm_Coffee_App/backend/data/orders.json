@@ -1,0 +1,129 @@
+[
+  {
+    "id": "d1026d22-172a-4078-8d15-4d914295f5bd",
+    "userId": "u1",
+    "items": [
+      {
+        "id": "1",
+        "name": "Espresso",
+        "price": 150,
+        "description": "Strong and bold",
+        "image": "/images/espresso.jpg"
+      },
+      {
+        "id": "1",
+        "name": "Espresso",
+        "price": 150,
+        "description": "Strong and bold",
+        "image": "/images/espresso.jpg"
+      },
+      {
+        "id": "1",
+        "name": "Espresso",
+        "price": 150,
+        "description": "Strong and bold",
+        "image": "/images/espresso.jpg"
+      }
+    ],
+    "total": 450,
+    "paymentMethod": "cash",
+    "status": "placed",
+    "createdAt": "2025-11-10T18:38:16.244Z"
+  },
+  {
+    "id": "1409c7ac-ca06-4a77-8712-93cc678475ac",
+    "userId": "u1",
+    "items": [
+      {
+        "id": "1",
+        "name": "Espresso",
+        "price": 150,
+        "description": "Strong and bold",
+        "image": "/images/espresso.jpg"
+      },
+      {
+        "id": "1",
+        "name": "Espresso",
+        "price": 150,
+        "description": "Strong and bold",
+        "image": "/images/espresso.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Americano",
+        "price": 180,
+        "description": "Espresso with hot water",
+        "image": "/images/americano.jpg"
+      }
+    ],
+    "total": 480,
+    "paymentMethod": "card",
+    "status": "placed",
+    "createdAt": "2025-11-10T18:47:08.354Z"
+  },
+  {
+    "id": "5709c646-fd76-4b8a-afd6-0610427dff88",
+    "userId": "u1",
+    "items": [
+      {
+        "id": "1",
+        "name": "Espresso",
+        "price": 150,
+        "description": "Strong and bold",
+        "image": "/images/espresso.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Cappuccino",
+        "price": 250,
+        "description": "Espresso with steamed milk and foam",
+        "image": "/images/cappuccino.jpg"
+      }
+    ],
+    "total": 400,
+    "paymentMethod": "card",
+    "status": "placed",
+    "createdAt": "2025-11-10T18:57:26.762Z"
+  },
+  {
+    "id": "804f3548-4f49-40be-b274-cd190d51339f",
+    "userId": "u1",
+    "items": [
+      {
+        "id": "1",
+        "name": "Espresso",
+        "price": 150,
+        "description": "Strong and bold",
+        "image": "/images/espresso.jpg"
+      }
+    ],
+    "total": 150,
+    "paymentMethod": "cash",
+    "status": "placed",
+    "createdAt": "2025-11-10T19:03:07.671Z"
+  },
+  {
+    "id": "6839b4b4-1b92-413c-ae14-b04b4e0b82ba",
+    "userId": "u1",
+    "items": [
+      {
+        "id": "3",
+        "name": "Cappuccino",
+        "price": 250,
+        "description": "Espresso with steamed milk and foam",
+        "image": "/images/cappuccino.jpg"
+      },
+      {
+        "id": "1",
+        "name": "Espresso",
+        "price": 150,
+        "description": "Strong and bold",
+        "image": "/images/espresso.jpg"
+      }
+    ],
+    "total": 400,
+    "paymentMethod": "card",
+    "status": "placed",
+    "createdAt": "2025-11-10T19:08:30.581Z"
+  }
+]

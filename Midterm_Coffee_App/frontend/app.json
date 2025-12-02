@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "5acebc7f-d0a5-4202-9732-9b833b3032b2"
+      }
+    },
+    "android": {
+      "package": "com.rameezkhan.coffeeshopfrontend"
+    }
+  }
+}
